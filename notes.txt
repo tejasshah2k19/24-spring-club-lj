@@ -1,0 +1,86 @@
+1) spring web
+2) spring boot dev tools 
+
+
+project created -> 
+	com->   controller
+			dao 
+			bean
+			util
+	webapp->
+		WEB-INF/views 
+	
+application.properties 
+server.port=9999
+
+views->jsp 
+	spring.mvc.view.prefix=/WEB-INF/views/
+	spring.mvc.view.suffix=.jsp	
+
+
+STS : jsp X  [ 1 time ] 
+project : tomcat embeded jasper -> jar {maven} 
+	
+-------------------------------------------------------------------	
+			
+		
+		
+		
+		
+
+
+
+
+
+adv java 
+
+	Signup:
+	Login:
+	ForgetPassword:
+	
+	
+SessionController 
+	3 methods : url 
+	
+jsp->webapp->
+
+WEB-INF  	
+--------------------------------------------------
+
+how to read data in controller?
+
+we will use concept of bean instead of getParameter 
+
+request.getParameter("firstName"); <-- X 
+
+bean -> class -> parameter -> variable 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	
